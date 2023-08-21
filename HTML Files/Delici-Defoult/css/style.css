@@ -1743,7 +1743,7 @@ body.visible-sidebar{
 }
 
 .we-offer-section .row .offer-block:nth-child(2){
-  margin-top: var(--margin-top-160);
+  margin-top: var(--margin-top-60);
 }
 
 .offer-block .inner-box{
@@ -7125,7 +7125,43 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
   -webkit-animation: burger-hover 1s infinite ease-in-out alternate forwards 600ms;
           animation: burger-hover 1s infinite ease-in-out alternate forwards 600ms;
 }
-
+/* vimal saree css start */
+.home-banner{
+  opacity: 0.6;
+}
+.vimal-footer-logo h3{
+  font-weight: 700;
+  font-size: 50px;
+  font-family: "Playfair Display" !important;
+  color: white;
+}
+.footer-address{
+  font-family: "Montserrat" !important;
+  font-size: 16px;
+  font-weight: 700 !important;
+  color: white !important;
+}
+.footer-social{
+  font-family: "Montserrat" !important;
+  font-size: 14px;
+  font-weight: 700 !important;
+  color: white !important;
+}
+.header-left-side{
+  padding-right: 100px;
+}
+.banner-heading span{
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 60px;
+}
+.home-subline{
+  color: white !important;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: "Montserrat";
+}
+/* vimal sacree css end  */
 @-webkit-keyframes burger-hover {
   0% {
     width: 100%;
