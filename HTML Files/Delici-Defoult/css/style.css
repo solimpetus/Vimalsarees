@@ -7161,6 +7161,27 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
   font-size: 16px;
   font-family: "Montserrat";
 }
+.about-sub-heading{
+  font-family: "Playfair Display";
+  font-size: 60px !important;
+  font-weight: 400;
+}
+.about-lines{
+  font-weight: 400 !important;
+  font-family: "Montserrat" !important;
+  font-size: 16px !important;
+  color: #FFFFFF !important;
+  /* line-height: 36 !important; */
+}
+.home-new-arrivals{
+  background-color: #000 !important;
+}
+.about-service-bg-color{
+  background-color: #000 !important;
+}
+.who-we-are{
+  background-color: #000 !important;
+}
 /* vimal sacree css end  */
 @-webkit-keyframes burger-hover {
   0% {
