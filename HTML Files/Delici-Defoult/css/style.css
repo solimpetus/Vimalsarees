@@ -6755,15 +6755,17 @@ body.visible-sidebar{
 
 .contact-page .cinfo-box {
   position: relative;
-  background-color: var(--color-four);
+  background-color: unset !important;
+  padding-top: 2rem;
 }
+
 
 .contact-page .cinfo-box:before {
   position: relative;
   content: '';
   position: absolute;
   left:0;
-  width: 100%;
+  /* width: 100%; */
   top: -40px;
   bottom: 0;
   -webkit-transition: all 500ms ease;
@@ -7125,11 +7127,11 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
   -webkit-animation: burger-hover 1s infinite ease-in-out alternate forwards 600ms;
           animation: burger-hover 1s infinite ease-in-out alternate forwards 600ms;
 }
-/* vimal saree css start */
+/* nirmal saree css start */
 .home-banner{
   opacity: 0.6;
 }
-.vimal-footer-logo h3{
+.nirmal-footer-logo h3{
   font-weight: 700;
   font-size: 50px;
   font-family: "Playfair Display" !important;
@@ -7182,7 +7184,36 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
 .who-we-are{
   background-color: #000 !important;
 }
-/* vimal sacree css end  */
+.header-logo{
+  font-family: "Playfair Display" !important;
+  font-weight: 700;
+  font-size: 50px;
+}
+.nirmalsaree-contact-bg{
+  background-color: #0E0D0C !important;
+}
+.contact-page-form-color{
+  background-color: #141414;
+}
+input{
+  color:#B8B8B8 !important;
+}
+.call-us-saree{
+  color: #8E8E8E;
+}
+a:hover {
+  color: rgb(228 195 144) !important;
+  text-decoration: underline;
+}
+.contact-image{
+  height: 100% !important;
+}
+.banner-heading span{
+font-family: "Playfair Display" !important;
+font-weight: 400;
+font-size: 70px;
+}
+/* nirmal sacree css end  */
 @-webkit-keyframes burger-hover {
   0% {
     width: 100%;
