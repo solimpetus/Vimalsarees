@@ -7143,7 +7143,7 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
   font-weight: 700 !important;
   color: white !important;
 }
-.footer-social{
+.footer-social a{
   font-family: "Montserrat" !important;
   font-size: 14px;
   font-weight: 700 !important;
@@ -7212,6 +7212,11 @@ a:hover {
 font-family: "Playfair Display" !important;
 font-weight: 400;
 font-size: 70px;
+}
+.footer-links a{
+font-weight: 700 !important;
+color: #FFFFFF !important;
+font-size: 15px !important;
 }
 /* nirmal sacree css end  */
 @-webkit-keyframes burger-hover {
