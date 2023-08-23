@@ -1725,6 +1725,7 @@ body.visible-sidebar{
   bottom: 0;
 }
 
+
 .we-offer-section .title-box{
   margin-bottom: -90px;
 }
@@ -7249,6 +7250,27 @@ font-family: "Playfair Display" !important;
 }
 .heading-font-fam {
   font-family: "Playfair Display" !important;
+  }
+  .left-flower img{
+width: 50% !important;
+  }
+  .story-section .left-flower{
+    margin-top: 70px !important;
+  } 
+  .special-offer-two .left-bot-bg{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  .services-section .left-bot-bg{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  .contact-page .left-bot-bg{
+    position: absolute;
+    left: 0;
+    bottom: 0;
   }
 /* .desktop-view{
 display: block;
