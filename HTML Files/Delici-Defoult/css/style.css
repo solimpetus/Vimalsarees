@@ -1285,7 +1285,9 @@ body.visible-sidebar{
 .banner-section .banner-container{
   position: relative;
 }
-
+.slide-item::before{
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
 .banner-section .banner-slider{
   position:relative;
   width:100%;
@@ -7189,6 +7191,11 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
   font-weight: 700;
   font-size: 50px;
 }
+/* .logo a:hover {
+  color: rgb(228 195 144) !important;
+  text-decoration: unset !important;
+} */
+
 .nirmalsaree-contact-bg{
   background-color: #0E0D0C !important;
 }
@@ -7217,6 +7224,28 @@ font-size: 70px;
 font-weight: 700 !important;
 color: #FFFFFF !important;
 font-size: 15px !important;
+}
+.home-banner-blur{
+  position:absolute;
+background-color: rgba(0,0,0,0.15);
+
+}
+.left-bot-bg img{
+  width: 60% !important;
+}
+.right-top-bg img{
+  width: 60% !important;
+}
+.right-flower {
+  position: absolute;
+  right: -167px !important;
+  top: 0;
+}
+.desktop-view{
+display: block;
+}
+.mobile-view{
+display: none;
 }
 /* nirmal sacree css end  */
 @-webkit-keyframes burger-hover {

@@ -648,7 +648,23 @@
 }
 
 @media only screen and (max-width: 767px){
-	
+	/* .desktop-view{
+		display: none;
+		}
+		.mobile-view{
+		display: block;
+		}
+		.inner-banner .mobile-view {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: 100% cover !important;
+			opacity: 0.40;
+		} */
 	.banner-section .swiper-button-prev,
 	.banner-section .swiper-button-next{
 		display: none;
