@@ -7241,12 +7241,21 @@ background-color: rgba(0,0,0,0.15);
   right: -167px !important;
   top: 0;
 }
-.desktop-view{
+.heading-font-fam span{
+font-family: "Playfair Display" !important;
+}
+.lines-font-fam{
+  font-family: "Montserrat" !important;
+}
+.heading-font-fam {
+  font-family: "Playfair Display" !important;
+  }
+/* .desktop-view{
 display: block;
 }
 .mobile-view{
 display: none;
-}
+} */
 /* nirmal sacree css end  */
 @-webkit-keyframes burger-hover {
   0% {

@@ -665,6 +665,10 @@
 			background-size: 100% cover !important;
 			opacity: 0.40;
 		} */
+		.home-heading-mv span{
+			font-size: 25px;
+			line-height: 1;
+		}
 	.banner-section .swiper-button-prev,
 	.banner-section .swiper-button-next{
 		display: none;
