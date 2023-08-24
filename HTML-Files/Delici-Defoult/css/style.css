@@ -7284,7 +7284,7 @@ width: 50% !important;
     padding-top: 15rem !important;
     padding-bottom: 15rem !important;
   }
-  .fa-location-dot:before, .fa-map-marker-alt:before {
+  .fa-location-dot:before {
     content: "\f3c5";
     color: white !important;
 }
