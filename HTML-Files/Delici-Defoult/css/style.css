@@ -7134,11 +7134,15 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
 .home-banner{
   opacity: 0.6;
 }
+.nirmal-footer-logo{
+  margin-bottom: 20px !important;
+}
 .nirmal-footer-logo h3{
   font-weight: 700;
   font-size: 50px;
   font-family: "Playfair Display" !important;
   color: white;
+
 }
 .footer-address{
   font-family: "Montserrat" !important;
@@ -7280,6 +7284,10 @@ width: 50% !important;
     padding-top: 15rem !important;
     padding-bottom: 15rem !important;
   }
+  .fa-location-dot:before, .fa-map-marker-alt:before {
+    content: "\f3c5";
+    color: white !important;
+}
 /* .desktop-view{
 display: block;
 }
