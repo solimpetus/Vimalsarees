@@ -1009,6 +1009,10 @@
 }
 
 @media only screen and (max-width: 479px) {
+	/* .story-about{
+	
+		margin-bottom: 80px !important;
+	  } */
 	.banner-section .slide-item h1,
 	h1,
 	.intro-section .fact-counter .count-box,
